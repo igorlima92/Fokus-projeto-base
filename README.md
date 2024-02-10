@@ -52,9 +52,6 @@ Crie um novo Pull Request.
 
 
 
-Repositório: https://github.com/igorlima92/Fokus_contagem_regressiva/tree/main
-
-Deploy: https://igorlima92.github.io/Fokus_contagem_regressiva/
 
 
 
